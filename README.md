@@ -1,6 +1,6 @@
 
 This repository contains the code to predict compressive and tensile strengths
-of high-performance concrete as described in [this paper](add.link). 
+of high-performance concrete as described in [this paper](https://doi.org/10.1016/j.conbuildmat.2020.120950). 
 
 If you find this code helpful, please cite 
 
@@ -9,10 +9,9 @@ If you find this code helpful, please cite
     author = {Nguyen, Hoang and Vu, Thanh and Vo, Thuc P. and Thai, Huu-Tai},
 		title={Efficient machine learning models for prediction of concrete strengths},
 		journal={Construction and Building Materials},
-    volume = {000},
-    pages = {000--000},
-		year={2020},
-    doi = {---}
+    volume = {266},
+		year={2021},
+    doi = {10.1016/j.conbuildmat.2020.120950}
 	}
 ```
 
